@@ -1,2 +1,3 @@
 # OutlookEmailAccountCreator
-Create mass outlook email accounts
+Create mass outlook email accounts using Selenium
+
