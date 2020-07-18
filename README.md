@@ -1,3 +1,4 @@
-# OutlookEmailAccountCreator
-Create mass outlook email accounts using Selenium
+# Outlook Email Account Spammer
+
+Create mass outlook email accounts using Selenium and 2captcha
 
